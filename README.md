@@ -1,8 +1,8 @@
-<!-- Profile README for Rizky Akbar Mokolanot (@Mondayszz) | Theme: Gundam RX-78-2 (white / blue / red / yellow) -->
+<!-- Profile README for Rizky Akbar Mokolanot (@Mondayszz) | Theme: futuristic Gundam RX-78-2 -->
+<!-- Animated panels live in the /assets folder of this repo (header, pilot-data, pilot-class, progress, divider) -->
 
-<!-- ===== ANIMATED HEADER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2f8a,40:1f5fd6,72:e60012,100:ffd400&height=250&section=header&text=Rizky%20Akbar%20Mokolanot&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E3%80%90%20MOBILE%20SUIT%20PILOT%20%7C%20ML%20%C3%97%20DATA%20SCIENCE%20%C3%97%20CYBERSECURITY%20%E3%80%91&descAlignY=58&descSize=16&descColor=ffffff" alt="header" />
+  <img src="assets/header.svg" alt="Rizky Akbar Mokolanot - Mobile Suit Pilot" width="100%" />
 </div>
 
 <!-- ===== TYPING ANIMATION ===== -->
@@ -16,12 +16,12 @@
 
 <!-- ===== PILOT BADGES ===== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mondayszz&label=Hangar%20Visits&color=1f5fd6&style=for-the-badge" alt="views" />
+  <img src="https://hits.sh/github.com/Mondayszz/Mondayszz.svg?style=for-the-badge&label=Hangar%20Visits&color=1f5fd6&labelColor=0b2f8a" alt="views" />
   <img src="https://img.shields.io/github/followers/Mondayszz?label=Allies&style=for-the-badge&logo=github&color=e60012" alt="followers" />
   <img src="https://img.shields.io/github/stars/Mondayszz?label=Stars&style=for-the-badge&logo=github&color=ffd400&labelColor=0b2f8a" alt="stars" />
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🤖 Mobile Suit Hangar
 
@@ -38,38 +38,27 @@
   </table>
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🧑‍🚀 Pilot Data
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║  PILOT NAME   : Rizky Akbar Mokolanot                    ║
-║  CALLSIGN     : Mondayszz                                ║
-║  UNIT         : ML Engineer / Data Scientist / Sec Ops   ║
-║  BASE         : Indonesia 🇮🇩                             ║
-║  STATUS       : ● ONLINE                                 ║
-║  MISSION      : Build AI systems that are smart & secure ║
-╚══════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="assets/pilot-data.svg" alt="Pilot data HUD" width="100%" />
+</div>
 
-```python
-class Pilot:
-    def __init__(self):
-        self.callsign = "Mondayszz"
-        self.mobile_suit = ["Machine Learning", "Data Science", "Cybersecurity"]
-        self.upgrades_in_progress = ["MLOps", "Adversarial ML", "Web & Network Security"]
-        self.fuel = "Coffee ☕"
+<br/>
 
-    def mission(self):
-        return "Deploy AI for threat detection and secure every model 🔐"
-```
+<div align="center">
+  <img src="assets/pilot-class.svg" alt="Pilot class terminal" width="100%" />
+</div>
+
+<br/>
 
 - 🔭 Exploring **machine learning & deep learning** on real-world data
 - 🛡️ Training in **cybersecurity**: pentesting, CTFs, network security analysis
 - 🧪 Fusion tech: **AI for threat detection** and **ML model security**
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## ⚙️ Weapon Systems (Tech Stack)
 
@@ -101,7 +90,7 @@ class Pilot:
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,fastapi,flask,docker,linux,bash,git,github,vscode&theme=dark" alt="tools" />
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 📡 Pilot Telemetry (GitHub Stats)
 
@@ -114,7 +103,7 @@ class Pilot:
   <img src="https://streak-stats.demolab.com/?user=Mondayszz&background=0b1e5b&border=1f5fd6&ring=e60012&fire=ffd400&currStreakNum=ffffff&currStreakLabel=ffd400&sideNums=ffffff&sideLabels=a3c4ff&dates=a3c4ff" alt="streak" />
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🐍 Contribution Radar
 
@@ -126,16 +115,15 @@ class Pilot:
   </picture>
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🎯 Upgrade Progress
 
-```text
-[ MACHINE LEARNING ]  ██████████████░░░░░░░░░░  60%
-[ DATA SCIENCE     ]  ███████████████░░░░░░░░░  65%
-[ CYBERSECURITY    ]  ██████████░░░░░░░░░░░░░░  45%
-[ AI + SECURITY    ]  ███████░░░░░░░░░░░░░░░░░  30%
-```
+<div align="center">
+  <img src="assets/progress.svg" alt="Upgrade progress" width="100%" />
+</div>
+
+<br/>
 
 | Module | Currently Training |
 |---|---|
@@ -144,7 +132,7 @@ class Pilot:
 | 🔐 Cybersecurity | Pentesting, Web Security, Network Analysis |
 | 🤖 AI + Security | Anomaly/Intrusion Detection, Adversarial ML |
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🚀 Featured Mission
 
@@ -168,7 +156,7 @@ class Pilot:
   - CTF writeups & pentest labs (TryHackMe / HackTheBox)
 -->
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🏆 Battle Platforms
 
@@ -178,7 +166,7 @@ class Pilot:
   <a href="https://www.kaggle.com/Mondayszz"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 📞 Open Comms Channel
 
